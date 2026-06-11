@@ -1,0 +1,82 @@
+04-meetings/weekly-status-meeting-agenda.md
+# Weekly Status Meeting Agenda
+
+Use this agenda for recurring program status meetings.
+
+The goal of the weekly status meeting is to review progress, identify blockers, confirm decisions, update risks, and keep the program moving forward.
+
+## Meeting Information
+
+Program Name:
+
+Meeting Date:
+
+Meeting Time:
+
+Meeting Location or Link:
+
+Facilitator:
+
+Note Taker:
+
+Program Manager:
+
+## Meeting Purpose
+
+The purpose of this meeting is to keep the program on track by reviewing progress, risks, issues, decisions, and next steps.
+
+By the end of this meeting, the team should know:
+
+- What was completed
+- What is delayed
+- What is at risk
+- What decisions are needed
+- What needs to be escalated
+- What each person owns next
+
+## Attendees
+
+| Name | Role | Department | Attendance |
+|---|---|---|---|
+|  | Program Manager |  | Present / Absent |
+|  | Workstream Lead |  | Present / Absent |
+|  | Business Owner |  | Present / Absent |
+|  | Stakeholder |  | Present / Absent |
+|  | Vendor/Partner |  | Present / Absent |
+
+## Agenda
+
+### 1. Review Overall Program Status
+
+Purpose:
+
+Start with the big picture.
+
+Status Options:
+
+- Green = On track
+- Yellow = At risk
+- Red = Off track
+
+Discussion Prompts:
+
+- Is the program currently on track?
+- Has anything changed since the last update?
+- Are there any major concerns?
+- Does leadership need to be informed of anything?
+
+Overall Status:
+
+```text
+Green / Yellow / Red
+
+---
+
+# Step 5: Commit the file
+
+Scroll down.
+
+In the commit message box, type:
+
+```text
+Add weekly status meeting agenda
